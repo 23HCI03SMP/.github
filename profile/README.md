@@ -1,4 +1,4 @@
-# Changing project title - Investigating Coulomb's Explosion and Particle Interactions under Magnetised Liner Inertial Fusion?
+# Investigating Coulomb's Explosion and Particle Interactions under Magnetised Liner Inertial Fusion?
 
 ## Description
 Magnetized liner inertial fusion (MagLIF) is a promising approach for achieving nuclear fusion. In this process, a cylindrical liner containing deuterium-tritium fuel mixture is compressed and heated using a pulsed power generator. The fuel is compressed and heated to achieve the required temperature and density for nuclear fusion to occur. The liner is also magnetized to reduce thermal losses and increase the confinement time of the fuel. Coulomb's explosion and particle interactions play a crucial role in understanding the dynamics of the liner and fuel during the compression process. Investigating Coulomb's explosion and particle interactions is essential for the success of MagLIF.
