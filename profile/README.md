@@ -1,4 +1,4 @@
-# Optimised Numerical Methods for the Computation of Particles in Fusion Hotspots and Particle Interactions in Magnetized Liner Inertial Fusion (MagLIF)
+# Changing project title - Investigating Coulomb's Explosion and Particle Interactions under Magnetised Liner Inertial Fusion?
 
 ## Description
 
